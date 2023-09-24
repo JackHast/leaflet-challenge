@@ -8,3 +8,20 @@ body,
 html {
   height: 100%;
 }
+
+/* Styling legend */
+
+.legend {
+  line-height: 20px;
+}
+
+.legend i {
+  width: 20px;
+  height: 20px;
+  float: left;
+  margin-right: 10px;
+  margin-left: 10px;
+  opacity: 1;
+}
+
+
